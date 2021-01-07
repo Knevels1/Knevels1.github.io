@@ -328,6 +328,7 @@ header .intro-text {
 }
 #services .service-desc {
 	margin-bottom: 40px;
+	background-color: wheat;
 }
 /* Portfolio Section */
 #portfolio {
