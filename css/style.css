@@ -294,6 +294,7 @@ header .intro-text {
 }
 #services .service-desc {
 	margin: 10px 10px 20px;
+	background-color: wheat;
 }
 #services h2 {
 	color: #fff;
@@ -328,7 +329,6 @@ header .intro-text {
 }
 #services .service-desc {
 	margin-bottom: 40px;
-	background-color: wheat;
 }
 /* Portfolio Section */
 #portfolio {
